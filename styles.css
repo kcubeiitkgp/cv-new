@@ -1,0 +1,114 @@
+
+	body{margin:0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+h1{margin-top: 0;
+font-family: 'Sriracha', cursive;
+font-size: 5rem;
+color: #66BFBF;
+line-height: 2;}
+
+h2{font-family: 'Sriracha', cursive;
+	font-size: 3rem;
+color: #66BFBF;}
+
+h3{font-family: 'Sriracha', cursive;
+color: #11999E;}
+
+.ii{font-size: 200%;
+color:#11999E;}
+
+a{color: #11999E;
+margin:10px 10px;
+text-decoration: none;}
+a:hover{color: #EAF6F6;
+		text-decoration: underline;}
+
+.iitian{font-weight: normal;}
+
+.top {
+	position: relative;
+	padding-top: 100px; 
+	padding-bottom: 100px;
+	background-color: #E4F9F5;
+	margin-bottom: 10px;
+    }
+
+.iit{text-decoration: underline;}
+
+.tcloud{position: absolute;
+		right:13rem;
+		top:1rem;}
+		
+.bcloud{position: absolute;
+		left:16rem;
+		top:29rem;}
+.c{border-radius: 50%;}
+
+.skill-row{padding-bottom: 4rem;
+			width: 50%;
+			margin: 100px auto 100px;
+			text-align: left;
+			line-height: 2;
+		}
+.img{width: 25%;
+	float: left;
+	margin-right: 30px;}
+.qmg{border-radius: 50%;
+	width: 25%;
+float: right;
+margin-right: 110px;
+}
+
+hr{
+border-style: none;
+border-color: grey;
+border-top-style: dotted;
+border-width: 5px;
+width: 3%;
+}
+.profile{padding-bottom: 75px;}
+h2{padding-top: 20px;}
+
+
+.bottom-container{background-color: #66BFBF;
+					line-height: 2;
+					color: white;}
+.contact-me{padding-bottom: 80px;}
+
+.btn {
+
+  background: #0AECF3;
+  background-image: -webkit-linear-gradient(top, #0AECF3, #3DF6DC);
+  background-image: -moz-linear-gradient(top, #0AECF3, #3DF6DC);
+  background-image: -ms-linear-gradient(top, #0AECF3, #3DF6DC);
+  background-image: -o-linear-gradient(top, #0AECF3, #3DF6DC);
+  background-image: linear-gradient(to bottom, #0AECF3, #3DF6DC);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-size: 30px;
+  font-weight: 100;
+  box-shadow: 1px 1px 20px 0px #000;
+  -webkit-box-shadow: 1px 1px 20px 0px #000000;
+  -moz-box-shadow: 1px 1px 20px 0px #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  padding: 5px 
+}
+
+
+.btn:hover {
+   background: green;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: underline;
+}
